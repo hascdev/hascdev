@@ -33,12 +33,6 @@
  
 </td></tr><tr><td valign="top" width="420">
 
-## Frameworks
-
-- Node.js
- 
-</td><td valign="top" width="420">
-
 ## Databases
 
 - MySQL
@@ -46,6 +40,12 @@
 - MongoDB
 - Firebase Realtime Database
 - Cloud Firestore
+ 
+</td><td valign="top" width="420">
+
+## Frameworks
+
+- Node.js
  
 </td></tr></tbody></table> 
 
