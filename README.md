@@ -19,8 +19,8 @@
 
 
 # Tech Stack
-<div width="100%">
-<table><tbody width="100%"><tr><td valign="top" width="50%">
+<div></div>
+<table width="100%"><tbody style="display:table; width:100%;"><tr><td valign="top" width="50%">
 
 ## Languages
 
@@ -35,7 +35,7 @@
 - React
  
 </td></tr></tbody></table> 
-</div>
+
 <!---
 hascdev/hascdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
