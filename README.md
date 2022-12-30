@@ -15,7 +15,7 @@
 
 
 
-# Tech Stack
+# 🖥️ Tech Stack
 
 <table><tbody><tr><td valign="top" width="420">
 
@@ -30,6 +30,22 @@
 ## Javascript UI
 
 - React
+ 
+</td></tr><tr><td valign="top" width="420">
+
+## Frameworks
+
+- Node.js
+ 
+</td><td valign="top" width="420">
+
+## Databases
+
+- MySQL
+- Postgres
+- MongoDB
+- Firebase Realtime Database
+- Cloud Firestore
  
 </td></tr></tbody></table> 
 
