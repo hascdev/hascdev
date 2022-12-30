@@ -19,8 +19,8 @@
 
 
 # Tech Stack
-<div></div>
-<table width="100%"><tbody style="display:table; width:100%;"><tr><td valign="top" width="50%">
+
+<table style="width:100%;"><tbody style="display:table; width:100%;"><tr><td valign="top" width="50%">
 
 ## Languages
 
