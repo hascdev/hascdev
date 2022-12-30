@@ -16,22 +16,22 @@
     </a>
 </div>
 
-<table>
-    <tr>
-        <td valign="top" width="50%">
-        ## Languages
-        
+
+<table><tr><td valign="top" width="50%">
+
+## Languages
+
 - Java
 - Javascript
 - Python
-        </td>
-        <td valign="top" width="50%">
-        # Javascript UI
+ 
+</td><td valign="top" width="50%">
 
-        - React
-        </td>
-    </tr>
-</table> 
+## Javascript UI
+
+- React
+ 
+</tr></tr></table> 
 
 <!---
 hascdev/hascdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
