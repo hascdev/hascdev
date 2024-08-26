@@ -45,7 +45,7 @@
 
 ## Frameworks
 
-- Node.js
+- Next.js
  
 </td></tr></tbody></table> 
 
